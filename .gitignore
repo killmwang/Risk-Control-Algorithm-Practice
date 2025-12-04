@@ -1,0 +1,10 @@
+# 忽略数据文件
+*.csv
+data/
+input/
+
+# 忽略 Jupyter 生成的临时文件
+.ipynb_checkpoints/
+
+# 忽略 Python 缓存
+__pycache__/
